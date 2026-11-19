@@ -30,11 +30,11 @@ C#, Windows Forms, .NET Framework 4.8 ve Visual Studio. Uygulama harici çalış
 
 ### Başlangıç
 
-![Kayıt kapalı ve olay listesi boş](docs/baslangic.png)
+<img width="845" height="665" alt="image" src="https://github.com/user-attachments/assets/553c90b9-77b6-42a3-8154-84ede7133b4c" />
 
 ### Etkin kayıt
 
-![Kayıt açıkken yedi tuş olayı ve toplam olay sayısı](docs/kayit.png)
+<img width="833" height="651" alt="image" src="https://github.com/user-attachments/assets/6bd109f4-bc28-4fa6-bb6a-b3e2166b265e" />
 
 ## Kodun yapısı
 
